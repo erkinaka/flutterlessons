@@ -1,3 +1,5 @@
+# Ders 7 - Temel Widgetlar - Container
+
 # Container
 
 Bu widget bir konumlandırm, dekore etme ve boyutlandırma widgetıdır. İçndeki nesnlerin boyutlarını konumlarını ve kutu dekorasyonu gibi özelliklerini belirlemek için kullanılır.
