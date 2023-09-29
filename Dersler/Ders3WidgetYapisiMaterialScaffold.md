@@ -1,4 +1,4 @@
-# Ders 3 - Flutter Widget Yapısı_ Material ve Scaffold.md
+# Ders 3 - Flutter Widget Yapısı_ Material ve Scaffold
 
   Bu sayfada bulunduğunuza göre Flutter'ın ne olduğunu veya en azından ne amaçla kulanıldığını bildiğiniz düşünerek hemen programın kurulumlarını sizlere anlattık. Ama şimdi bilmeyenler ve yeni başlayanlar için Flutter ile ilgili bir ka temel konuya değinelim.
 
