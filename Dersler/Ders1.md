@@ -1,4 +1,6 @@
-# 1-	Flutter Kurulumu
+#Ders 1 - Flutter ve Android Studio Kurulumu.md
+
+## 1-	Flutter Kurulumu
 
   Öncelikle https://docs.flutter.dev/get-started/install adresinden kendi sisteminize uygun paketi seçip indirmelisiniz. 
 
@@ -26,7 +28,7 @@
 
 ![Screenshot](images/Resim7.png)
 
-# 2-	Android Studio Kurulumu
+## 2-	Android Studio Kurulumu
 
   https://developer.android.com/studio adresinden Android Studio programını indirip kurulumunu yapınız. Android Studio kurulumu 2 aşamadan oluşuyor.
 
@@ -35,13 +37,13 @@
   İlk aşamada programın kurulumu gerçekleşiyor. 2. Aşamada ise gerekli SDK ve Emülatör gibi paketlerin yüklenmesi yapılıyor. Bu işlem için internet üzerinden gerekli paketler indirilip kuruluyor.
 
 
-  # 3-	Android Studio için Flutter ve Dart Eklentileri
+  ## 3-	Android Studio için Flutter ve Dart Eklentileri
   
 Android Studio içerisindeki File (Dosya) menüsü içerisinden Settings seçilir. Açılan pencereden sol taraftaki sekmelerden Plugins (Eklentiler) seçilir. Burada Fluuter ve Dart eklentileri aratılıp kurulur.
 
 ![Screenshot](images/Resim9.png)
 
-# 4-	Kurulumu Kontrol Et
+## 4-	Kurulumu Kontrol Et
 
   Tüm işlemleri yaptıktan sonra CMD veya Powershell içindeki herhangi komut satırı açılır ve aşağıdaki komut yazılır. Bu komut bize Flutter için gerekli programları ve kurulum durumları ile ilgili bilgi verir.
 ```
