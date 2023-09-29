@@ -18,7 +18,7 @@ class FlutterMyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('MTT Flutter1 Team'),
+          title: const Text('MTT Flutter Team'),
         ),
         body: Container(
           decoration: BoxDecoration(
