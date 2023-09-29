@@ -1,3 +1,5 @@
+# Ders 3 - Flutter Widget Yapısı_ Material ve Scaffold.md
+
   Bu sayfada bulunduğunuza göre Flutter'ın ne olduğunu veya en azından ne amaçla kulanıldığını bildiğiniz düşünerek hemen programın kurulumlarını sizlere anlattık. Ama şimdi bilmeyenler ve yeni başlayanlar için Flutter ile ilgili bir ka temel konuya değinelim.
 
   Flutter, Google tarafından oluşturulan ve Mayıs 2017'de piyasaya sürülen ücretsiz ve açık kaynaklı bir Mobil UI Framework’üdür (çerçevesidir). Birkaç kelimeyle söylemek gerekirse, yalnızca tek bir kod tabanıyla yerel bir mobil uygulama oluşturmanıza olanak tanır. Bu, iki farklı uygulama (iOS ve Android için) oluşturmak için bir programlama dili ve bir kod tabanı kullanabileceğiniz anlamına gelir.
