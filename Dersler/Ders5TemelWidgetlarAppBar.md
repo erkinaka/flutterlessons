@@ -1,3 +1,4 @@
+
 # AppBar
 
   Bu widget mobil uygulamalrınızda banner özelliği görmektededir. Uygulama ismi ve logosu gibi nesneler bu bölümde yer alabilir.
