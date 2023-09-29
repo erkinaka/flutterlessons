@@ -11,7 +11,7 @@ class FlutterMyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'MTT App',
+      title: 'MTT App Image, Column',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
