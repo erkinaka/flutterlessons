@@ -1,3 +1,5 @@
+#Ders 4 - Temel Widgetlar Scaffold
+
 # Scaffold
 
   Scaffold, mobil uygulamalarda bulunan nesnelerin ekran üzerinde yerleşimi için onlara bir iskelet yapısı sunar. Ekranın aynı iskelet yapısı gibi bölümlere ayırır ve, istediğiniz alana widget'ınızı eklemenizi sağlar. 
