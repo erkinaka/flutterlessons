@@ -1,16 +1,17 @@
-# flutterlessons
+# Flutter
+Flutter Lessons
 
-MTT Flutter Dersleri
+Burada, Flutter için başlangıç seviyesinden başlayarak uzmanlık seviyesine kadar bir içerik yayınlanacaktır.
+Bu içerikleri öncelikle Bilişim Teknlojileri Öğretmeni olduğum bir meslek lisesindeki öğrencilerimin faydalanması için hazırlıyorum.
 
-## Getting Started
+Ders 1 - Flutter ve Android Studio Kurulumu
 
-This project is a starting point for a Flutter application.
+Ders 2 - Flutter Proje Oluşturma
 
-A few resources to get you started if this is your first Flutter project:
+Ders 3 - Flutter Widget Yapısı: Material ve Scaffold
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ders 4 - Temel Widgetlar: AppBar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ders 4 - Temel Widgetlar: Text
+
+Ders 5 - Temel Widgetlar: Container
