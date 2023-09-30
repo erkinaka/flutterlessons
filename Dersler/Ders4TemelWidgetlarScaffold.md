@@ -1,4 +1,4 @@
-#Ders 4 - Temel Widgetlar Scaffold
+# Ders 4 - Temel Widgetlar Scaffold
 
 # Scaffold
 
