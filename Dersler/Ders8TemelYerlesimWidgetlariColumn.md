@@ -1,4 +1,4 @@
-# Column Widget
+# Column Widget (Temel Yerleşim Widgetı)
 İçerisine aldığı widgetların dikey bir şekilde konumlanmasını sağlayan kapsayıcı bir widget’tır. Sütun anlamına gelir. En önemli özelliklerinden biri içerisinde bulunan childeren[ ] parametresi ile içerisine birden fazla widget alabilmesidir.
 
 ![Screenshot](images/column1.PNG)
