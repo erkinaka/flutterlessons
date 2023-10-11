@@ -1,1 +1,1 @@
-![Screenshot](Odevler/MedicineReminder/Column_ve_Row_Odevi.PNG)
+![Screenshot](Column_ve_Row_Odevi.PNG)
