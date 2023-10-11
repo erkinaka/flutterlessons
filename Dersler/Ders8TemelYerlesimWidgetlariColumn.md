@@ -30,3 +30,6 @@ crossAxisAlignment verebileceğimiz parametreler
 
 ![Screenshot](images/column6.PNG)
 ![Screenshot](images/column7.PNG)
+
+
+Kaynak: https://www.yazilimdili.net/flutter-programlama/flutter-widget-class-sinif/flutter-column-widget-class-nedir/
