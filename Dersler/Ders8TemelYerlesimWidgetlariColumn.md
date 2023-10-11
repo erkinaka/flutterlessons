@@ -1,7 +1,7 @@
 # Column Widget
 İçerisine aldığı widgetların dikey bir şekilde konumlanmasını sağlayan kapsayıcı bir widget’tır. Sütun anlamına gelir. En önemli özelliklerinden biri içerisinde bulunan childeren[ ] parametresi ile içerisine birden fazla widget alabilmesidir.
 
-![Screenshot](images/Column1.PNG)
+![Screenshot](images/column1.PNG)
 
 ## Flutter Column Widget Özellikleri
 **childeren[ ]**  – liste yapısı sayesinde içerisine birden fazla widget eklenebilir.
@@ -16,9 +16,17 @@
 mainAxisAlignment verebileceğimiz parametreler
 **center, end, spaceAround, spaceBetween, spaceEvenly, start**
 
+![Screenshot](images/column2.PNG)
+![Screenshot](images/column3.PNG)
+![Screenshot](images/column4.PNG)
+![Screenshot](images/column5.PNG)
+
 ## Flutter Column Widget crossAxisAlignment Özelliği
 
 **crossAxisAlignment** Column Widget için yatayda hizalama sağlar. Ana eksenin (mainAxisAligment) tersi yönünde diye aklımızda kalırsa daha iyi olur. Çünkü Column Widget’ının yani satırın ana ekseni dikey oluyor. Bu durum Row Widget’ında değişiyor. Row ana ekseni yataydır.
 
 crossAxisAlignment verebileceğimiz parametreler
 **center, end, start, strech**
+
+![Screenshot](images/column6.PNG)
+![Screenshot](images/column7.PNG)
