@@ -32,3 +32,5 @@ crossAxisAlignment verebileceğimiz parametreler
 **center, end, start, strech**
 
 ![Screenshot](images/row4.PNG)
+
+Kaynak: https://www.yazilimdili.net/flutter-programlama/flutter-widget-class-sinif/flutter-column-widget-class-nedir/
