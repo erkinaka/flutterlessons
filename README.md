@@ -10,7 +10,7 @@ Bu içerikleri öncelikle Bilişim Teknlojileri Öğretmeni olduğum bir meslek 
 
 [Ders 3 - Flutter Widget Yapısı: Material ve Scaffold](Dersler/Ders3WidgetYapisiMaterialScaffold.md)
 
-[Ders 4 - Flutter Widget Yapısı: Material ve Scaffold](Dersler/Ders4TemelWidgetlarScaffold.md)
+[Ders 4 - Temel Widgetlar Scaffold](Dersler/Ders4TemelWidgetlarScaffold.md)
 
 [Ders 5 - Temel Widgetlar: AppBar](Dersler/Ders5TemelWidgetlarAppBar.md)
 
