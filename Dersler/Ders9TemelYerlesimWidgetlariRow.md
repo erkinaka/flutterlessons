@@ -11,13 +11,17 @@ Burada çok özet listeledim ancak aşağıda örnekleri ile açıkladım.
 **mainAxisSize** – Satırın yatayda ne kadar bir alan kaplayacağı belirtilir. max ve min olarak değer alır.
 **textDirection** – Hizamanın soldan mı yoksa sağdan mı başlayacağının belirlendiği alandır. ltr(soldan sağa), rtl(sağdan sola) değer alır.
 
+![Screenshot](images/row1.PNG)
+
 ## Flutter Row Widget mainAxisAlignment Özelliği
 **mainAxisAlignment**: Row Widget içerisindeki öğelerin yatayda nasıl konumlanacağını ayarlar. Ancak buradaki önem Column Widget yani sütün widget’ı için durumun farklı olmasıdır. Bununda sebebi row dediğimiz yapı bir satır, yatay bir yapıdır. mainAxisAlignment ise ana eksen anlamına gelir. Yani satırını ana ekseni yataydır. Bu yüzden yatayda hizalar. Column yani sütun yapısında ise ana eksen dikeydir. Bu yüzdende dikeyde hizalama yapılır.
 
-Biz yukarıdaki resimde görüldüğü üzere içerisine dört adet container widget ekledik. Bunları 3 yaptığımızda varsayılan olarak baştan başlayıp sağ tarafa doğru yan yana koyacaktır. Aşağıda resimdeki gibi…
-
 mainAxisAlignment verebileceğimiz parametreler
 **center, end, spaceAround, spaceBetween, spaceEvenly, start**
+
+![Screenshot](images/row2.PNG)
+
+![Screenshot](images/row3.PNG)
 
 ## Flutter Row Widget crossAxisAlignment Özelliği
 **crossAxisAlignment** Row Widget için dikeyde hizalama sağlar. Ana eksenin (mainAxisAligment) tersi yönünde diye aklımızda kalırsa daha iyi olur. Çünkü Row Widget’ının yani satırın ana ekseni yatay oluyor. Bu durum Column Widget’ında değişiyor. Column ana ekseni dikeydir.
@@ -26,3 +30,5 @@ mainAxisAlignment verebileceğimiz parametreler
 
 crossAxisAlignment verebileceğimiz parametreler
 **center, end, start, strech**
+
+![Screenshot](images/row4.PNG)
