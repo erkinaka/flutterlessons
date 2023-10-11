@@ -1,4 +1,4 @@
-## Flutter Row Widget Nedir?
+# Row Widget (Temel Yerleşim Widgetı)
 
 Widgetları içerisine yan yana alan kapsayıcı bir widgettır. Satır Anlamına gelir. En önemli özelliklerinden biri içerisinde bulunan childeren[ ] parametresi ile yan yana birden fazla widget alabilmesidir.
 
